@@ -1,6 +1,6 @@
 
 def checkPalindrome(word):
-    #reverses the word
+    #equalizes capitalization
     word = word.lower()
     
     #takes out all special characters
